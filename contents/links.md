@@ -5,7 +5,7 @@ I am grateful to the many people who have shaped the way I learn and think about
 
 ## People I Have Learned From
 
-I am grateful to the many people who have shaped the way I learn and think about mathematics.
+I am grateful to the many people who have shaped the way I learn and think about mathematics(or something else).
 
 - [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/)
 - [Ilya Bogaevskii](https://fmmp.math.msu.ru/teachers/i-a-bogaevsky)
@@ -23,7 +23,23 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [Mariano Suárez-Álvarez](https://mate.dm.uba.ar/~aldoc9/)
 - [Rui Xiong](https://cubicbear.github.io/)
 - [Sylvester W. Zhang](https://sylvesterzhang.com/)
-
+- [Javier Coppola]
+- [Pattanayak Basudev]
+- [Xinfeng Lin]
+- [Ruliang Chen]
+- [JingQi Li]
+- [Wuhan Zhou]
+- [Haorun Yin]
+- [Zhexi Zhang]
+- [Dianguo Qiu]
+- [Zhen Lin](https://tuchuanlin.github.io/)
+- [Zhixian Chen](co cat brother)
+- [Xi Xie]
+- [Wenming Wu]
+- [Yuqiang Huang]
+- [Xuanshaoyi Chen]
+- [DaoZeng Li]
+  
 Some mathematical resources that I frequently find useful.
 - [The Stacks Project](https://stacks.math.columbia.edu/)
 - [MathOverflow](https://mathoverflow.net/)
