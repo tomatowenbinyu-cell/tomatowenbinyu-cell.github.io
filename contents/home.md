@@ -19,6 +19,3 @@ Email: tomatowenbinyu@gmail.com
 #### Education
 B.E., Computer Science and Technology, Technion-Israel Insistute of Techonology, 2023—2027.\
 
-#### Research Interests
-
-algebra, representation theory, algebraic combinatorics, and related algebraic geometry
