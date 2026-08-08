@@ -38,14 +38,7 @@ sections:
     title: Wenbin Yu
     href: '#page-top'
 
-  # =========================
-  # RESEARCH
-  # =========================
-  - id: research
-    nav: RESEARCH
-    title: RESEARCH
-    icon: bi-lightbulb-fill
-
+ 
   # =========================
   # PUBLICATIONS
   # =========================
