@@ -24,7 +24,7 @@
   })();
 </script>
 
-    <style>
+<style>
   /* =========================
      Light / Dark Mode
      ========================= */
@@ -45,52 +45,99 @@
     opacity: 0.7;
   }
 
-  /* Dark mode */
-  html[data-theme="dark"] body {
-    background-color: #111111;
-    color: #e8e8e8;
-  }
+  /* ---------- DARK MODE ---------- */
 
-  html[data-theme="dark"] .navbar,
-  html[data-theme="dark"] #mainNav {
-    background-color: #151515 !important;
+  html[data-theme="dark"],
+  html[data-theme="dark"] body {
+    background: #111111 !important;
     color: #e8e8e8 !important;
   }
 
+  /* 导航栏 */
+  html[data-theme="dark"] #mainNav,
+  html[data-theme="dark"] .navbar {
+    background: #151515 !important;
+  }
+
+  html[data-theme="dark"] #mainNav *,
   html[data-theme="dark"] .navbar-brand,
   html[data-theme="dark"] .nav-link {
     color: #e8e8e8 !important;
   }
 
-  html[data-theme="dark"] section:not(.top-section) {
-    background-color: #111111 !important;
+  /* 正文区域：
+     不修改首页 top-section 的背景图 */
+  html[data-theme="dark"] body > section:not(.top-section),
+  html[data-theme="dark"] section:not(.top-section),
+  html[data-theme="dark"] main,
+  html[data-theme="dark"] footer {
+    background: #111111 !important;
     color: #e8e8e8 !important;
   }
 
+  /* Bootstrap / 模板常见白色背景 */
+  html[data-theme="dark"] .bg-white,
   html[data-theme="dark"] .bg-light,
-  html[data-theme="dark"] .bg-white {
-    background-color: #151515 !important;
+  html[data-theme="dark"] .bg-body,
+  html[data-theme="dark"] .bg-body-tertiary {
+    background: #111111 !important;
+    color: #e8e8e8 !important;
   }
 
+  /* 正文里面的容器 */
+  html[data-theme="dark"] section:not(.top-section) .container,
+  html[data-theme="dark"] section:not(.top-section) .container-fluid,
+  html[data-theme="dark"] section:not(.top-section) .row,
+  html[data-theme="dark"] section:not(.top-section) .col,
+  html[data-theme="dark"] section:not(.top-section) [class*="col-"] {
+    background-color: transparent !important;
+    color: #e8e8e8 !important;
+  }
+
+  /* 卡片 */
+  html[data-theme="dark"] .card {
+    background: #181818 !important;
+    color: #e8e8e8 !important;
+    border-color: #333333 !important;
+  }
+
+  /* 标题和普通文字 */
+  html[data-theme="dark"] h1,
+  html[data-theme="dark"] h2,
+  html[data-theme="dark"] h3,
+  html[data-theme="dark"] h4,
+  html[data-theme="dark"] h5,
+  html[data-theme="dark"] h6,
+  html[data-theme="dark"] p,
+  html[data-theme="dark"] li {
+    color: #e8e8e8;
+  }
+
+  /* 链接 */
   html[data-theme="dark"] a {
-    color: #d8d8d8;
+    color: #cccccc;
   }
 
   html[data-theme="dark"] a:hover {
     color: #ffffff;
   }
 
+  /* 灰色文字 */
+  html[data-theme="dark"] .text-muted,
+  html[data-theme="dark"] .text-secondary {
+    color: #aaaaaa !important;
+  }
+
+  /* 分割线 */
   html[data-theme="dark"] hr {
-    border-color: #444444;
+    border-color: #444444 !important;
+    opacity: 1;
   }
 
-  html[data-theme="dark"] .card {
-    background-color: #181818;
-    color: #e8e8e8;
-    border-color: #333333;
-  }
-
-  html[data-theme="dark"] .text-muted {
+  /* Footer */
+  html[data-theme="dark"] footer,
+  html[data-theme="dark"] footer * {
+    background-color: #111111 !important;
     color: #aaaaaa !important;
   }
 </style>
