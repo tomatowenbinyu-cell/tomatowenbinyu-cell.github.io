@@ -4,11 +4,13 @@ I am an undergraduate student pursuing a Bachelor's degree in Mathematics with C
 
 My current mathematical interests lie primarily in **algebra, representation theory, algebraic combinatorics, and related algebraic geometry**. I am particularly interested in interactions between algebraic structures and combinatorial or geometric phenomena.
 
-I have worked on problems related to character theory of finite groups, Bott--Samelson varieties, Springer fibers, Lie algebras in tensor categories, and arithmetic and geometric questions arising from Farey fractions.
-
-Currently, I am continuing to explore problems in representation theory and algebraic combinatorics.
 
 I enjoy learning mathematics through research, seminars, and discussions with other mathematicians.
+
+
+
+
+
 
 #### Contact
 
