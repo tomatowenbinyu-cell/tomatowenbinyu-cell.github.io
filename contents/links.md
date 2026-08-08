@@ -8,7 +8,7 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [Yibo Gao](https://bicmr.pku.edu.cn/~gaoyibo)
 - [Shiliang Gao](https://sites.google.com/illinois.edu/shiliang-gao)
 - [Max Gurevich](https://sites.google.com/view/maxgur/home)
-- [Ruben Jakob](https://rubenj1.wixsite.com/website))
+- [Ruben Jakob](https://rubenj1.wixsite.com/website)
 - [Nikita Kalinin](https://kilin-math.github.io/)
 - [Maksim Karev](https://www.gtiit.edu.cn/en/viewStaff.aspx?staffNo=232)
 - [María Julia Redondo](https://inmabb.criba.edu.ar/gente/mredondo/)
