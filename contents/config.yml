@@ -1,28 +1,79 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Wenbin Yu's Homepage
+page-top-title: Wenbin Yu
+
+# 首页最大号的背景文字
+top-section-bg-text: Mathematics
+
+# 首页背景图
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
+
+# 背景图片轮换间隔，单位毫秒
 background-interval-ms: 7000
+
+# 背景遮罩透明度
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+
+# 页脚
+copyright-text: '&copy; Wenbin Yu 2026. All Rights Reserved.'
+
+# GitHub
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/tomatowenbinyu-cell
+
+# 模板 License
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/tomatowenbinyu-cell/tomatowenbinyu-cell.github.io/blob/main/LICENSE
+
 sections:
+
+  # =========================
+  # HOME
+  # =========================
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
-    href: '#page-top' # Default to '#<id>' if not specified
+    title: Wenbin Yu
+    href: '#page-top'
+
+  # =========================
+  # RESEARCH
+  # =========================
+  - id: research
+    nav: RESEARCH
+    title: RESEARCH
+    icon: bi-lightbulb-fill
+
+  # =========================
+  # PUBLICATIONS
+  # =========================
   - id: publications
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    icon: bi-award-fill
+
+  # =========================
+  # NOTES
+  # =========================
+  - id: notes
+    nav: NOTES
+    title: NOTES
+    icon: bi-journal-text
+
+  # =========================
+  # LINKS
+  # =========================
+  - id: links
+    nav: LINKS
+    title: LINKS
+    icon: bi-link-45deg
+
+  # =========================
+  # CV
+  # =========================
+  - id: cv
+    nav: CV
+    title: CURRICULUM VITAE
+    icon: bi-file-earmark-person-fill
