@@ -36,6 +36,8 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [DaoZeng Li]
 - [Yue Shen (Melon Eight Old)]
 - [Jianxiang Chen]
+
+
 Some mathematical resources that I frequently find useful.
 - [The Stacks Project](https://stacks.math.columbia.edu/)
 - [MathOverflow](https://mathoverflow.net/)
