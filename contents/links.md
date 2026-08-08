@@ -1,10 +1,5 @@
 ## People I Have Learned From
 
-I am grateful to the many people who have shaped the way I learn and think about mathematics.
-
-
-## People I Have Learned From
-
 I am grateful to the many people who have shaped the way I learn and think about mathematics(or something else).
 
 - [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/)
