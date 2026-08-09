@@ -21,7 +21,7 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [Sylvester W. Zhang](https://sylvesterzhang.com/)
 - [Javier Coppola]
 - [Pattanayak Basudev]
-- [Xinfeng Lin]
+- [Xingfeng Lin](https://xingfeng-2004.github.io/Xinfeng-Lin/)
 - [Ruliang Chen]
 - [JingQi Li]
 - [Wuhan Zhou]
