@@ -17,5 +17,5 @@ I enjoy learning mathematics through research, seminars, and discussions with ot
 Email: tomatowenbinyu@gmail.com
 
 #### Education
-B.E., Math with Computer Science, Technion-Israel Institute of Technology, China Campus， 2023—2027.
+B.E., Math with Computer Science, Technion-Israel Institute of Technology, China Campus, 2023—2027.
 
