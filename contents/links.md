@@ -32,17 +32,9 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [Wuhan Zhou]
 - [Haorun Yin]
 - [Zhexi Zhang]
-- [Dianguo Qiu]
+- [Yuzhou He](https://wiliiiii.github.io/)
 - [Zhen Lin](https://tuchuanlin.github.io/)
-- [Zhixian Chen](co cat brother)
-- [Xi Xie]
-- [Wenming Wu]
-- [Yuqiang Huang]
-- [Xuanshaoyi Chen]
-- [DaoZeng Li]
-- [Yue Shen (Melon Eight Old)]
-- [Jianxiang Chen]
-......
+
 
 
 Some mathematical resources that I frequently find useful.
