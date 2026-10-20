@@ -28,6 +28,8 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [Pattanayak Basudev]
 - [Xingfeng Lin](https://xingfeng-2004.github.io/Xinfeng-Lin/)
 - [Ruliang Chen]
+- [Qiyuan Chen]
+- [Jiarong Wu]
 - [JingQi Li]
 - [Wuhan Zhou]
 - [Haorun Yin]
