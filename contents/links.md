@@ -22,6 +22,7 @@ I am grateful to the many people who have shaped the way I learn and think about
 - [Evgeny Smirnov](https://users.mccme.ru/smirnoff/)
 - [Andrea Solotar](https://mate.dm.uba.ar/~asolotar/contactarme.html)
 - [Mariano Suárez-Álvarez](https://mate.dm.uba.ar/~aldoc9/)
+- [Vladisav Romanovskii](https://math-cs.spbu.ru/en/people/vladislav-r-romanovskii/)
 - [Rui Xiong](https://cubicbear.github.io/)
 - [Sylvester W. Zhang](https://sylvesterzhang.com/)
 - [Javier Coppola]
